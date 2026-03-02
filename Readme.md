@@ -1,1 +1,1 @@
-A simple voting webapp that, powered by kubernetes. With the pods and services. Deployments will come soon. 
+A simple voting webapp that is powered by kubernetes. With the pods and services and deployments. 
